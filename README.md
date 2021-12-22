@@ -4,7 +4,7 @@ I am a repo used for demoing a repository project board
 
 ## Just learning Markdown 
 
-![[Github logo](/Users/macbook/Documents/GitHub/my-acme-repo/github-octocat.png)]
+![[Markdown logo](wp-content/uploads/2017/08/markdown1.png)]
 
 <!--Codeblocks-->
 ```bash
