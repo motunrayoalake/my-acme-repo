@@ -4,7 +4,7 @@ I am a repo used for demoing a repository project board
 
 ## Just learning Markdown 
 
-(alt text)(https://www.google.com/search?q=github+picture&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjVytOQuff0AhVJ-6QKHXzWA3IQ_AUoAXoECAEQAw&biw=1440&bih=741&dpr=1#imgrc=Hm7x3KXilRreSM)
+![alt text](https://www.google.com/search?q=github+picture&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjVytOQuff0AhVJ-6QKHXzWA3IQ_AUoAXoECAEQAw&biw=1440&bih=741&dpr=1#imgrc=Hm7x3KXilRreSM)
 <!--Codeblocks-->
 ```bash
     npm install
