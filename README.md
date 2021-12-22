@@ -24,6 +24,7 @@ Task List
 * [x] Task 2
 * Task 3
 
+
 Ordered list
 1. Item 1
 1. Item 2
@@ -35,7 +36,8 @@ This is being created on a *Wednesday*
 
 This is being created on a ~Wednesday~
 
-This is being created on a --*Wednesday*--
+This is being created on a __*Wednesday*__
+
 
 List of other items
 -Desk
