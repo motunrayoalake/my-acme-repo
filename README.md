@@ -36,7 +36,7 @@ This is being created on a *Wednesday*
 
 This is being created on a ~Wednesday~
 
-This is being created on a __*Wednesday*__
+This is being created on a __Wednesday__
 
 
 List of other items
