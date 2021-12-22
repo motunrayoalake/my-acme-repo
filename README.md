@@ -21,7 +21,7 @@ Task List
 <!--Task Lists-->
 * [x] Task 1
 * [x] Task 2
-* [] Task 3
+* Task 3
 
 Ordered list
 1. Item 1
