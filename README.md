@@ -4,7 +4,7 @@ I am a repo used for demoing a repository project board
 
 ## Just learning Markdown 
 
-(This is the discription)(github-octocat.png)
+(alt text)(https://www.google.com/search?q=github+picture&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjVytOQuff0AhVJ-6QKHXzWA3IQ_AUoAXoECAEQAw&biw=1440&bih=741&dpr=1#imgrc=Hm7x3KXilRreSM)
 <!--Codeblocks-->
 ```bash
     npm install
@@ -27,3 +27,8 @@ Ordered list
 1. Item 1
 1. Item 2
 1. Item 3
+
+This is being crated on a **Wednesday**
+This is being created on a *Wednesday*
+This is being created on a ~Wednesday~
+
