@@ -10,3 +10,8 @@ I am a repo used for demoing a repository project board
     npm install
     npm start
 ```
+
+```Javascript
+    Function add (num1, num2){
+        return num1 + num2;
+    }
