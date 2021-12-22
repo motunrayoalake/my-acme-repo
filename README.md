@@ -29,6 +29,8 @@ Ordered list
 1. Item 3
 
 This is being crated on a **Wednesday**
+
 This is being created on a *Wednesday*
+
 This is being created on a ~Wednesday~
 
