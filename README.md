@@ -59,6 +59,7 @@ This paragraph has some `Variables` in line code.
 <!--Links-->
 
 [GitHub](https://github.com)
+
 [GitHub](https://github.com
 "GitHub")
 
