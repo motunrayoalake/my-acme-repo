@@ -40,9 +40,9 @@ This is being created on a __*Wednesday*__
 
 
 List of other items
--Desk
--Chair
--Waste bin
+*Desk
+*Chair
+*Waste bin
 
 
 <!--InlineCode-->
