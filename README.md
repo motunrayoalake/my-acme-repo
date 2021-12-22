@@ -5,4 +5,8 @@ I am a repo used for demoing a repository project board
 ## Just learning Markdown 
 
 (This is the discription)(github-octocat.png)
-
+<!--Codeblocks-->
+```bash
+    npm install
+    npm start
+```
