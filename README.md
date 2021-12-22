@@ -34,3 +34,21 @@ This is being created on a *Wednesday*
 
 This is being created on a ~Wednesday~
 
+List of other items
+-Desk
+-Chair
+-Waste bin
+
+
+<!--InlineCode-->
+This paragraph has some `Variables` in line code.
+
+
+<!--Table-->
+
+| Heading | Header | Head |
+|---------|--------|------|
+|Content  | Content| Text |
+|More words| More words| More words|
+
+
