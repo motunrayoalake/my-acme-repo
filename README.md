@@ -36,7 +36,7 @@ This is being created on a *Wednesday*
 
 This is being created on a ~Wednesday~
 
-This is being created on a ++Wednesday++
+This is being created on a <u>Wednesday</u>
 
 
 List of other items
