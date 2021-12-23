@@ -2,9 +2,10 @@
 I am a repo used for demoing a repository project board
 # This is a test
 
-## Just learning Markdown 
 
-![Markdown logo](/wp-content/uploads/2017/08/markdown1.png)
+## Markdown Class
+
+![github-octocat](https://user-images.githubusercontent.com/43884491/147232662-ce4abea1-ef91-42f7-a703-9a686e6232d1.png)
 
 <!--Codeblocks-->
 ```bash
