@@ -3,7 +3,7 @@ I am a repo used for demoing a repository project board
 # This is a test
 
 
-## Just learning Markdown 
+## Markdown Class
 
 ![github-octocat](https://user-images.githubusercontent.com/43884491/147232662-ce4abea1-ef91-42f7-a703-9a686e6232d1.png)
 
